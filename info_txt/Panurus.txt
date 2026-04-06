@@ -1,0 +1,25 @@
+Short description
+
+with flattened ventral side and arched dorsal side. Segments 1 is composed of a tergalplate, and a broad sternal plate with incompletelines indicating a partial differentiation into two episternal and a midsternal plate. Segments 2 to 10 arecomposed of one tergal and two sternal plates, and segment 11 of a tergal and a sternal plate.
+Segments 1 to 9 without acicular spines, butinstead withlong, projecting, spinose cuticular processes present along the middorsal and lateroventral lines. Females with rigid, middorsal spines on segments 10 and 11 that both project beyond the terminal segment; males withflexible, middorsalspines.
+Segment 11 with thin, and rather shortlateral terminal spines ( <10 % of trunk length), and a very short, pointed midterminal process.
+
+Paired paradorsal setae are present on segments 1 to 9. Setae arealso continuously present in paralateral and ventrolateral positions from 1 through 9.
+No setae are present onsegment 10.
+
+Key characters and similar species
+
+Species of Paracentrophyesarebe distinguished by their relatively stout, rectangular trunks, with a first segment composed of a tergalplate, and a broad, sternal platewhich is partly differentiated into episternal and a midsternal plate. This latter trait is unique for the genus. Species of the genus resembles Neocentrophyes and Mixtophyes, but besides the partially differentiated sternal plate of segment 1 that distinguishes it from both genera, Paracentrophyesis distinguished from Neocentrophyesby the presence of lateral terminal spines, and from Mixtophyesby having a less rectangular trunk outline, and much shorter lateral terminal spines (LTS:TL is < 32% for Paracentrophyes, versus >40% or more for Mixtophyes).
+
+of Paracentrophyeslook quite similar, and are most easily distinguished by the distribution pattern of paradorsal and ventrolateral setae. Paracentrophyes anurusmost easily distinguished from congeners by its short lateral terminal spines. Even though all species of Paracentrophyes have relatively short lateral terminal spines, the LTS/TL proportion in other species is 15 to 32%, whereas this proportion is below 10% for P. anurus. In addition, the species isdistinguished from other species by its complete absence of setae on segment 10. Females of P. anurusfurthermore have a conspicuously long middorsal spine on segment 10 that protrudes beyond the posterior margin of the terminal segment. On the opposite, P. sanchezae has a middorsal process on segment 10, whereas P. praedictus and P. quadridentatushave long middorsal spines on segment 11, but rather short ones on segment 10.
+
+Distribution and habitat
+
+The species was described from 103 m depth in the Korea Strait, and has subsequently been reported fromthe East China Sea.
+
+Literature
+
+rensen, M. V., Pardos, F., Herranz, M. & Rho, H. S (2010). New data on the genus Paracentrophyes (Homalorhagida, Kinorhyncha), with the description of a new species from the West Pacific. The Open Zoology Journal 3: 42-59
+
+Yamasaki H, Hiruta SF, Kajihara H (2013) Molecular phylogeny of kinorhynchs. Mol Phylogenet Evolut. 67: 303-310.
+http://dx.doi.org/10.1016/j.ympev.2013.02.016

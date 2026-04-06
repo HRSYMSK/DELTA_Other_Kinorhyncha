@@ -1,0 +1,32 @@
+Short description
+
+Species with segment 1 consisting of a closed ring, segments 2 to 10 of one tergal and two sternal plates, and segment 11 of one tergal andone sternal plate. Acicular spines present in middorsal series on segments 1 to 10, and lateral series on segments 1 to 9. Cuspidate spines are present in the lateral series on segments 2, 5, 8 and 9. MTS and LTAS present. LTAS longer than MTS.
+Fringes of posterior segment margins form smallspine-like tips.
+Posterior segment margin of segment 1 with broad, rectangular indentation without fringe tips.
+
+Adult dimorphism: Adult dimorphism is likely to occur in all species of Condyloderes. It is still not fullyunderstood for all species, but it appears that in particularoccurrenceof acicular spines on segment 10 might differ between stages and sexes, thus researchers should be cautious about relying too much on segment 10 morphology during identification.
+
+Key characters and similar species
+
+The species can be distinguished from most congeners by its cuspidate spine pattern.
+However, spine patterns are identical in C. flosfimbriatus and C. multispinosus, and the two species need to be distinguished by traits in the posterior segment margins. In C. multispinosusthe posterior segment marginshave thin, acicular fringe tips, whereas the fringe tips in C. flosfimbriatus areflower-likeand resemble little flosculi. In addition, C. multispinosushasa broad indentation in the posterior segmentmargin of segment 1, spanning between the ventromedial positions, and no fringe-like structures are present all along thisindentation. Conversely, C. flosfimbriatushas no, or only avery weak indentation, and minute acicular fringe-tips arepresent along the ventral side of segment 1.
+
+Distribution and habitat
+
+west coast of Scotland, and has subsequently been recorded at several occasions in the North Sea, the English Channel and in the Mediterranean.
+
+Literature
+
+Dal Zotto M, Neuhaus, N, Yamasaki Y, Todaro MA (2019). The genus Condyloderes (Kinorhyncha: Cyclorhagida) in the Mediterranean Sea, including the description of two new species with novel characters. Zool Anz 282: 206 – 231.
+http://dx.doi.org/10.1016/j.jcz.2019.05.006
+
+P. (1969). Indian Ocean Kinorhyncha: 1, Condyloderesand Sphenoderes, new cyclorhagid genera. Smithson. Contr. Zool. 14: 1-13.
+
+McIntyre, A. D. (1962). The class Kinorhyncha (Echinoderida) in British waters. J. Mar. Biol. Ass. UK. 42: 503-509.
+
+Neuhaus, B., Dal Zotto, M., Yamasaki, H., Higgins, R.P., 2019. Revision of Condyloderes (Kinorhyncha, Cyclorhagida) including description of Condyloderes shirleyisp. nov. Zootaxa 4561, 1– 91.
+http://dx.doi.org/10.11646/zootaxa.4561.1.1
+
+rensen, M.V., Thistle, D. & Landers, S.C. (2019). North American Condyloderes (Kinorhyncha: Cyclorhagida: Kentrorhagata): female dimorphism suggests moulting among adult Condyloderes. Zool. Anz. 282: 232-251
+
+http://dx.doi.org/10.1016/j.jcz.2019.05.015

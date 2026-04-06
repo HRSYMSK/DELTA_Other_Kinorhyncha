@@ -1,0 +1,33 @@
+Short description
+
+Segment 1 consists of a closed cuticular ring, with deep, but broadmiddorsal and midventral incisions. Closing of the head opening follows a lateralcontraction, rather than the more common radial closing. Middorsal and midventral placids elongate; middorsal placid nearly rectangular, midventral one elongate trapezoid. Segments 2 to 11 composed of one tergal and two sternal plates.
+
+Strong and rigid acicular spines present in middorsal series on segments 1 to 11, in lateral series on segments 3 to 9, and laterodorsally on segment 10 (males with crenulated spines on segment 10).
+A pair ofeither extremely minute (stage 1 adults) or fully developed ( stage 2 adults)
+cuspidate spines present on segment 5.
+MTS, LTS and LTAS present.
+LTS from 60% to 110% of LTAS length.
+
+Adult dimorphism: Adult dimorphism is likely to occur in all species of Sphenoderes. It is still not fully understood for all species, but it appears that if present, it is expressed in the length of middorsal spines on the more posterior segments (longer spines in stage 1 adults), and in the level of development of cuspidate spines (in stage 1 adults some cuspidate spines are minute and rudimentary, whereas they arefully developed and considerably larger in stage 2 adults).
+
+Adult dimorphism is confirmed in S. aspidochelone: Stage 1 adults have longer middorsal spines on posterior segments, and rudimentary cuspidate spines on segment 5. Stage 2 adultshave shortermiddorsal spines on posterior segments, andfully developed cuspidate spines on segment 5.
+
+Key characters and similar species
+
+The speciesis most easily distinguished from S. indicus, but it lack of cuspidate spines on segment 8. Distinction from S. neptunusand S. poseidonis much more challenging, and the adult dimorphism only contributesto potential confusion.
+
+It appears that adult dimorphism can be expressed in developmental level of cuspidate spines, and since all three species, S. aspidochelone, S. neptunusand S. poseidon, show a variation of rudimentary or fully developed cuspidate spines onsegments 5 and 9, these spines are not very helpful to determine identity. Currently, it appears that the best key to identification is the shape, andwidth to lengthratio of the midventral placids, that go from narrow elongate, to broadly triangular. Sphenoderes neptunushas the narrowest midventral placid, with a width to length ratio of only 38%. I.e., its midventral placid is nearly three times longer than wide. In S. aspidochelone, this ratio is more balanced, at 50%, meaning that the midventral placid length is twice its width. Despite these proportional differences, the midventral placids in both species appear as elongate, rectangular (although with pointed distal end), and this shape is in clear contrast to theconspicuously triangular midventral placid in P. poseidon.
+
+Distribution and habitat
+
+The species was described from thenorthern Gulf of Mexico, and has subsequently also been recorded at several localities in the southern Gulf of Mexico.
+
+Literature
+
+Landers, S.C., Hoffman, K.P, Sánchez, N., Sørensen, M.V. (2022). Kinorhynch diversity in the southern Gulf of Mexico and a description of Dracoderes chaacsp. nov. Gulf Caribbean Res. 33: 1– 13. https://doi.org/10.
+18785/gcr.3301.01
+
+rensen MV, Herranz M (2022). Adult moulting and dimorphism in a new species of Sphenoderes (Kinorhyncha: Kentrorhagata) – Is the exception becoming the rule? Acta Zool. 103: 150-116. https://doi.org/10.1111/azo.12361
+
+Sø rensen, M.V. & Landers, S.C. (2018). New species of Semnoderidae (Kinorhyncha: Cyclorhagida: Kentrorhagata) from the Gulf of Mexico. Mar. Biodiv. 48: 327-355.
+http://dx.doi.org/10.1007/s12526-017-0728-x

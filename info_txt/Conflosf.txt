@@ -1,0 +1,23 @@
+Short description
+
+Species with segment 1 consisting of a closed ring, segments 2 to 10 of one tergal and two sternal plates, and segment 11 of one tergal and one sternal plate. Acicular spines present in middorsal series on segments 1 to 10, and lateral series on segments 1 to 9. Cuspidate spines are present in the lateral series on segments 2, 5, 8 and 9.
+MTS and LTAS present. LTAS longer than MTS.
+Fringes of posterior segment margins on segments 2 to 9 form small, flosculi-like tips.
+Ventral indentation in posterior segment margin of segment 1 absent.
+
+Adult dimorphism: Adult dimorphism is likely to occur in all species of Condyloderes. It is still not fully understood for all species, but it appears that in particular occurrence of acicular spines on segment 10 might differ between stages and sexes, thus researchers should be cautious about relying too much on segment 10 morphology during identification.
+
+Key characters and similar species
+
+can be distinguished from most congeners by its cuspidate spine pattern.
+However, spine patterns are identical in C. flosfimbriatus and C. multispinosus, and the two species need to be distinguished by traits in the posterior segment margins. In C. multispinosusthe posterior segment marginshave thin, acicular fringe tips, whereas the fringe tips in C. flosfimbriatus areflower-likeand resemble little flosculi. In addition, C. multispinosushasa broad indentation in the posterior segmentmargin of segment 1, spanning between the ventromedial positions, and no fringe-like structures are present all along thisindentation. Conversely, C. flosfimbriatushas no, or only avery weak indentation, and minute acicular fringe-tips arepresent along the ventral side of segment 1.
+
+Distribution and habitat
+
+northern part of the Gulf of Mexico, where it was collected at several locations. It has, however, also been found at two deep-sea localities off California.
+
+Literature
+
+rensen, M.V., Thistle, D. & Landers, S.C. (2019). North American Condyloderes (Kinorhyncha: Cyclorhagida: Kentrorhagata): female dimorphism suggests moulting among adult Condyloderes. Zool. Anz. 282: 232-251
+
+http://dx.doi.org/10.1016/j.jcz.2019.05.015
