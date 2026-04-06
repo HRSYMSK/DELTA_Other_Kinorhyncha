@@ -1,3 +1,0 @@
-Implicit Attributes
-
-Unless indicated otherwise, the following attributes are implicit throughout the descriptions, except where the characters concerned are inapplicable.
