@@ -9870,7 +9870,7 @@
       }
     },
     {
-      "name": "Sphenoderes neptunus adults stage 2",
+      "name": "Sphenoderes neptunus adult stage 2",
       "abbrev": "Spneptu2",
       "attributes": {
         "1": [
@@ -10068,6 +10068,10 @@
           {
             "label": "Distribution",
             "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Other_Kinorhyncha/main/images/SneptunusGEO.gif"
+          },
+          {
+            "label": "Habitus",
+            "url": "https://raw.githubusercontent.com/HRSYMSK/DELTA_Other_Kinorhyncha/main/images/SneptunusS2HAB.gif"
           }
         ],
         "info": [
